@@ -1,0 +1,15 @@
+{
+  "hash": "ffa8dd7223ade6a14576c3b97ce4a07e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Faizul Kabir\"\nimage: profile.jpg\nabout:\n  template: trestles\n  image-shape: round\n  image-width: 12em\n  links:\n    - icon: envelope\n      text: Email\n      href: mailto:mkabir9@huskers.unl.edu\n    - icon: github\n      text: GitHub\n      href: https://github.com/f7sajib\n    - icon: file-pdf\n      text: Download CV\n      href: files/Md_Faizul_Kabir_CV.pdf\n---\n\nI am a PhD candidate in the [Department of Agricultural Economics](https://agecon.unl.edu/) at the University of Nebraska–Lincoln. My work broadly lies in **environmental and resource economics** and **behavioral economics**, with a focus on how producers and consumers make adoption decisions.\n\nI am currently studying ranchers' preferences for the Grassland Conservation Reserve Program (CRP) and the role of **social networks** in conservation program participation and practice adoption in the Northern U.S. Great Plains. Going forward, I want to extend this work to settings where policy design shapes the adoption of agricultural, food, and conservation programs and practices.\n\n**I am currently on the job market** and open to opportunities in research, policy, and academia.\n\n## Let's Connect\n\nI welcome connections with professionals in agricultural economics, policy-making, and sustainability — feel free to reach out by [email](mailto:mkabir9@huskers.unl.edu).\n\n## Education\n\n- **PhD, Agricultural Economics** — University of Nebraska–Lincoln, expected 2026\n\n- **MS, Agricultural Economics** — University of Hohenheim, Germany (DAAD Scholar)\n\n- **MS, Production Economics** — Bangladesh Agricultural University\n\n- \n\n  ## **BSc, Agricultural Economics** — Bangladesh Agricultural University\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
