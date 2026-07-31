@@ -3,9 +3,11 @@ project:
   output-dir: docs
 resources:
   - Grassland1.jpg
-
+  - googlee51ecdb4fdd95756.html 
+  
 website:
   title: "Md Faizul Kabir"
+  site-url: https://faizul-kabir9.github.io/      
   navbar:
     left:
       - href: index.qmd
