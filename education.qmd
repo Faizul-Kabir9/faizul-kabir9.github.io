@@ -2,24 +2,30 @@
 title: "Education"
 ---
 
-## PhD in Agricultural Economics
-**University of Nebraska–Lincoln, USA** · 2022 – 2026 (expected)
+::: education-entry
+[**University of Nebraska–Lincoln**](https://www.unl.edu/) [08/2022 – 12/2026 (expected)]{.edu-date}
 
-Dissertation: *Exploring Rancher Preferences and the Role of Social
-Networks in Grassland Conservation and Adoption of Associated
-Practices: Insights from a Survey in the Northern Plains States.*
+PhD in Agricultural Economics
 
-## MS in Agricultural Economics
-**University of Hohenheim, Germany** · 2016 – 2018
+*Dissertation:* "Three Essays on Rancher Preferences and the Adoption of Grassland Conservation Programs and Practices: Insights from a Survey in the Northern Plains States."
+:::
 
-DAAD Scholar. Thesis: *Production and Consumption Effect of a
-Randomized Experiment of NERICA Rice Seed Distribution in Madagascar.*
+::: education-entry
+[**University of Hohenheim, Germany**](https://www.uni-hohenheim.de/en) [08/2016 – 09/2018]{.edu-date}
 
-## MS in Production Economics
-**Bangladesh Agricultural University, Bangladesh** · 2011 – 2012
+MS in Agricultural Economics
 
-IWMI Fellowship.
+*Thesis:* "Production and Consumption Effect of a Randomized Experiment of NERICA Rice Seed Distribution in Madagascar."
+:::
 
-## Bachelor's in Agricultural Economics
-**Bangladesh Agricultural University, Bangladesh** · 2007 – 2010
----
+::: education-entry
+[**Bangladesh Agricultural University**](https://www.bau.edu.bd/) [01/2011 – 12/2012]{.edu-date}
+
+MS in Production Economics
+:::
+
+::: education-entry
+[**Bangladesh Agricultural University**](https://www.bau.edu.bd/) [01/2007 – 12/2010]{.edu-date}
+
+Bachelor's in Agricultural Economics
+:::

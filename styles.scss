@@ -1,25 +1,55 @@
 /*-- scss:defaults --*/
 $primary: #24504a;
 $font-family-sans-serif: "Georgia", "Times New Roman", serif;
-$grid-body-width: 1050px;   // wider page overall
+$grid-body-width: 1050px;
 
 /*-- scss:rules --*/
+
+/* ================================================== */
+/*  ADJUST HERE — change these numbers to tune things */
+/* ================================================== */
+$banner-height: 1.7in;        // how tall the cover band is
+$banner-focus: 45%;         // which slice of photo shows: 0%=top, 100%=bottom
+$banner-gap-top: 2.0rem;   // gap under menu: more negative = tighter
+$content-drop: 1.5rem;      // how far down to push photo + text
+/* ================================================== */
+
 h1, h2 { font-weight: 700; }
 .navbar { letter-spacing: 0.02em; }
 
-/* Trestles layout: shrink the left (photo) column, widen the text side */
+.cover-banner-full {
+  position: relative;
+  left: 81%;
+  width: 100vw;
+  margin-left: -66vw;
+  margin-top: $banner-gap-top;
+  margin-bottom: 3rem;
+  overflow: hidden;
+  background-color: #fff;   /* ← ADD THIS: fills empty space, matches navbar */
+}
+.cover-banner img {
+  width: 100%;
+  height: auto;        // band grows to fit image; no crop, no side fill
+  display: block;
+}
+
+/* Trestles two-column layout */
 div.quarto-about-trestles {
   grid-template-columns: minmax(0, 3fr) minmax(0, 7fr) !important;
   gap: 2.5em;
 }
-
-/* Keep the photo block pinned toward the top-left, not floating mid-page */
 div.quarto-about-trestles .about-entity {
   align-self: start;
-  padding-top: 1em;
+  padding-top: $content-drop;
 }
 
-/* Slightly smaller, cleaner buttons under the photo */
-.about-links .about-link {
-  font-size: 0.9em;
+/* Profile photo — full picture, white frame */
+.about-image {
+  height: auto !important;
+  max-height: none !important;
+  border: 10px solid #fff;
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
 }
+
+.about-links .about-link { font-size: 0.9em; }

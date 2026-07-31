@@ -2,7 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-[Download my CV (PDF)](Md_Faizul_Kabir_CV.pdf){.btn .btn-primary}
----
+## [Download my CV (PDF)](Md_Faizul_Kabir_CV.pdf){.btn .btn-primary}
 
 ## 

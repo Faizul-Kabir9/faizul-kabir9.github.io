@@ -1,0 +1,64 @@
+---
+title: "Conference and Workshops"
+---
+
+My presentations and workshops as an ego network: I sit at the center, with each conference and workshop radiating out. **Hover over any node** for details.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(visNetwork)
+
+nodes <- data.frame(
+  id = c("me",
+         "AAEA26", "WAEA26", "Joint25", "SRM26", "Camp26",
+         "LINKS24", "Heart25"),
+  label = c("Md Faizul Kabir",
+            "AAEA 2026\n(2 papers)", "WAEA 2026\n(2 papers)",
+            "Joint AAEA/WAEA 2025\n(1 paper)",
+            "SRM 2026\n(1 paper)", "Camp Resources 2026\n(1 paper)",
+            "LINKS Workshop 2024", "Heartland 2025"),
+  group = c("ego",
+            "venue", "venue", "venue", "venue", "venue",
+            "workshop", "workshop"),
+  title = c(
+    "<b>Md Faizul Kabir</b><br>PhD Candidate, Agricultural Economics",
+    "<b>AAEA Annual Meeting</b><br>Kansas City, MO · 2026<br>Presented 2 papers",
+    "<b>WAEA Annual Meeting</b><br>Flagstaff, AZ · 2026<br>Presented 2 papers",
+    "<b>Joint AAEA &amp; WAEA Meeting</b><br>Denver, CO · 2025<br>Presented 1 paper",
+    "<b>SRM Annual International Meeting</b><br>Monterey, CA · 2026<br>Presented 1 paper",
+    "<b>Camp Resources XXXII</b><br>Asheville, NC · Aug 2026<br>Scheduled: 1 paper",
+    "<b>LINKS Center SNA Workshop</b><br>Univ. of Kentucky · 2024<br>Completed intermediate course",
+    "<b>Heartland Env. &amp; Resource Economics Workshop</b><br>Urbana-Champaign, IL · 2025<br>Attended"
+  ),
+  value = c(40, 20, 20, 14, 14, 14, 12, 12),
+  stringsAsFactors = FALSE
+)
+
+edges <- data.frame(
+  from = rep("me", 7),
+  to   = c("AAEA26", "WAEA26", "Joint25", "SRM26", "Camp26", "LINKS24", "Heart25"),
+  stringsAsFactors = FALSE
+)
+
+visNetwork(nodes, edges, height = "600px", width = "100%") |>
+  visGroups(groupname = "ego",      color = list(background = "#000000", border = "#000000"),
+            font = list(color = "white", size = 22)) |>
+  visGroups(groupname = "venue",    color = list(background = "#0072B2", border = "#005286"),
+            font = list(color = "#333333", size = 15)) |>
+  visGroups(groupname = "workshop", color = list(background = "#E69F00", border = "#b37c00"),
+            font = list(color = "#333333", size = 14)) |>
+  visNodes(shape = "dot", shadow = TRUE) |>
+  visEdges(color = list(color = "#999999", highlight = "#000000"), smooth = TRUE) |>
+  visOptions(highlightNearest = list(enabled = TRUE, degree = 1, hover = TRUE)) |>
+  visPhysics(stabilization = TRUE, barnesHut = list(gravitationalConstant = -6000)) |>
+  visLayout(randomSeed = 42)
+```
+
+::: {style="margin-top:1.2rem; padding:1rem 1.2rem; border:1px solid #ddd; border-radius:6px; font-size:0.92rem; line-height:2.1;"}
+**Blue** = Conference where I presented\
+**Orange** = Workshop attended or training completed\
+**Larger node** = more papers presented there
+:::

@@ -2,23 +2,36 @@
 title: "Research"
 ---
 
-My research examines producer decision-making in grassland conservation: preferences for the Grassland CRP (discrete choice experiments), the role of ego-networks in program participation, and the determinants of practices such as rotational grazing.
+## Research Interests
+
+My current research examines how agricultural producers and landowners make decisions about adopting conservation programs and management practices. Going forward, I am interested in studying how agricultural, food, and land-use policies influence producer and consumer decisions. I also plan to work on regenerative agriculture, climate-change adaptation, and interdisciplinary studies that integrate economic, agronomic, biophysical, and management data.
 
 ## Peer-Reviewed Publications
 
-1.  Pape, T., G. Meredith, D. Sandahl, **M. F. Kabir**, S. Banerjee, C. Allen, E. Dennis, and M. Stephenson. 2025. "Actor-Network Analysis of Partners Facilitating Regenerative Ranching Practices in the U.S. Northern Great Plains." *Rangelands*.
-2.  Pape, T., G. Meredith, D. Sandahl, **M. F. Kabir**, S. Banerjee, C. Allen, E. Dennis, and M. Stephenson. 2024. "Understanding the Values that Inform Regenerative Ranching in the Northern U.S. Great Plains." *Agriculture and Human Values* 41(1): 1–12.
-3.  **Kabir, M. F.**, M. S. Islam, and T. H. Miah. 2011. "Economics of Alternative Golda and Rice Farming in Polder Areas of Khulna District." *The Bangladesh Journal of Agricultural Economics* 34: 77–88.
-4.  Fatema, K., **M. F. Kabir**, M. M. Adnan, M. M. Islam, and J. U. Ahmed. 2014. "Comparative Economic Analysis of T. Aman Rice under Saline and Nonsaline Areas at Dacope Upazila of Khulna District in Bangladesh." *Journal of Sylhet Agricultural University* 1(1): 99–105.
+1.  Pape, T., G. Meredith, D. Sandahl, **M. F. Kabir**, S. Banerjee, C. Allen, E. Dennis, and M. Stephenson. 2025. ["Actor-Network Analysis of Partners Facilitating Regenerative Ranching Practices in the U.S. Northern Great Plains."](https://www.sciencedirect.com/science/article/pii/S0190052825000124) *Rangelands* 47(4): 218–222.
 
-## Other Publications
+2.  Pape, T., G. Meredith, D. Sandahl, **M. F. Kabir**, S. Banerjee, C. Allen, E. Dennis, and M. Stephenson. 2024. ["Understanding the Values that Inform Regenerative Ranching in the Northern U.S. Great Plains."](https://link.springer.com/article/10.1007/s10460-024-10649-1) *Agriculture and Human Values* 41(1): 1–12.
 
-- **Kabir, M. F.**, E. Dennis, S. Banerjee, G. Meredith, M. Stephenson, C. Allen, and T. Pape. 2025. "Rancher Preferences for Grassland Conservation in the Great Plains." *Cornhusker Economics*, University of Nebraska–Lincoln.
-- **Kabir, M. F.**, et al. 2025. "Rancher Preferences for Grassland Conservation Reserve Programs in the Northern U.S. Great Plains." Selected paper, WAEA–AAEA Joint Annual Meeting, Denver, CO.
+3.  **Kabir, M. F.**, M. S. Islam, and T. H. Miah. 2011. ["Economics of Alternative Golda and Rice Farming in Polder (Coastal) Areas of Khulna District."](https://www.cabidigitallibrary.org/doi/full/10.5555/20143345849) *The Bangladesh Journal of Agricultural Economics* 34: 77–88.
 
-## Work in Progress
+4.  Fatema, K., **M. F. Kabir**, M. M. Adnan, M. M. Islam, and J. U. Ahmed. 2014. ["Comparative Economic Analysis of T. Aman Rice under Saline and Nonsaline Areas at Dacope Upazila of Khulna District in Bangladesh."](https://jsau.sau.ac.bd/comparative-economic-analysis-of-t-aman-rice-under-saline-and-nonsaline-areas-at-dacope-upazila-of-khulna-district-in-bangladesh/) *Journal of Sylhet Agricultural University* 1(1): 99–105.
 
-- "Evaluating Rancher Preferences and Policy Design for Grassland Conservation in the Northern U.S. Great Plains" (with E. Dennis, S. Banerjee, G. Meredith, T. Pape, M. Stephenson, C. Allen, and D. Sandahl). Manuscript in preparation.
-- "The Role of Social Networks in Participation in Grassland Conservation and Adoption of Associated Practices" (with S. Banerjee, E. Dennis, and G. Meredith). Accepted, AAEA 2026.
-- "Perception versus Practice: Determinants and Challenges of Rotational Grazing in the Great Plains of the United States" (with E. Dennis, S. Banerjee, and G. Meredith). Accepted, AAEA and WAEA 2026.
-- "Farmer's Willingness to Adopt Conservation Practices in Nebraska" (with K. Schoengold and S. Banerjee). Survey in preparation. ---
+## Extension and Outreach Publications
+
+1.  **Kabir, M. F.**, E. Dennis, S. Banerjee, G. Meredith, M. Stephenson, C. Allen, and T. Pape. 2025. ["Rancher Preferences for Grassland Conservation in the Great Plains."](https://agecon.unl.edu/rancher-preferences-grassland-conservation-great-plains/) *Cornhusker Economics*, Department of Agricultural Economics, University of Nebraska–Lincoln.
+
+## Dissertation in Progress
+
+**Paper 1:** **Kabir, M. F.**, E. Dennis, S. Banerjee, G. Meredith, T. Pape, M. Stephenson, C. Allen, and D. Sandahl. "Evaluating Rancher Preferences and Policy Design for Grassland Conservation in the Northern U.S. Great Plains." Manuscript in preparation.
+
+**Paper 2:** **Kabir, M. F.**, E. Dennis, S. Banerjee, and G. Meredith. "Perception versus Practice: How Misreported Rotational Grazing Adoption Biases Conservation Evaluation in the U.S. Great Plains." Data analysis and manuscript preparation are in progress.
+
+**Paper 3:** **Kabir, M. F.**, S. Banerjee, E. Dennis, and G. Meredith. "The Role of Social Networks in Participation in Grassland Conservation and the Adoption of Associated Practices." Data analysis and manuscript preparation are in progress.
+
+## Other Research in Progress
+
+1.  "Farmers' Willingness to Adopt Conservation Practices in Nebraska." With Karina Schoengold and Simanti Banerjee. Survey instrument preparation is underway.
+
+## Grant Proposals
+
+1.  "Improving U.S. Dry Bean Supply-Chain Competitiveness Under Changing Water, Production, and Market Conditions." Led by Jayson Beckman, with a multi-investigator team. Submitted to the USDA National Institute of Food and Agriculture, Specialty Crop Research Initiative (SCRI); currently under review. Role: Drafted the main proposal narrative.
